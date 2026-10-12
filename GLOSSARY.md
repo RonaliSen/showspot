@@ -1,26 +1,25 @@
-# AI Engineering Glossary
+## Week 1 — Day 1
 
-## Week 1: LLM Fundamentals
+### AI (Artificial Intelligence)
+
+Technology that enables computers to perform tasks
+that normally require human intelligence.
 
 ### LLM (Large Language Model)
 
-An AI model trained to understand and generate text.
+An AI model trained on large amounts of text and code
+that can understand and generate language.
 
-### Token
+### Prompt
 
-A unit of text that an LLM processes.
-
-### Context Window
-
-The maximum number of tokens a model can
-handle within its available context.
-
-### Temperature
-
-A parameter that influences how varied
-the model's generated responses can be.
+The instruction or question we give to an AI model.
 
 ### Hallucination
 
-When an AI model generates incorrect or
-unsupported information.
+When an AI generates incorrect or invented information
+while presenting it as if it were correct.
+
+### Race Condition
+
+A software problem where the result depends on the
+timing of multiple operations happening concurrently.

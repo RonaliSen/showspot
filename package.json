@@ -1,0 +1,29 @@
+{
+  "name": "showspot",
+  "version": "1.0.0",
+  "description": "AI-powered movie ticketing platform (learning project)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RonaliSen/showspot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RonaliSen/showspot/issues"
+  },
+  "homepage": "https://github.com/RonaliSen/showspot#readme",
+  "devDependencies": {
+    "@types/node": "^26.6.5",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  },
+  "dependencies": {
+    "@openrouter/ai-sdk-provider": "^3.1.0",
+    "ai": "^7.0.148"
+  }
+}
